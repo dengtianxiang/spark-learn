@@ -1,0 +1,5 @@
+hadoop flume
+spark hbase
+hive hadoop
+spark sqoop
+hadoop phoniex
